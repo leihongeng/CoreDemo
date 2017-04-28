@@ -12,7 +12,7 @@ namespace CoreDemo.Web
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
-                .UseUrls("http://127.0.0.1:8015")
+                .UseUrls("http://0.0.0.0:8015")
                 .UseKestrel()
                 .UseContentRoot(Directory.GetCurrentDirectory())
                 .UseIISIntegration()
