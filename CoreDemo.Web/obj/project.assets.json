@@ -10810,15 +10810,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\leiho\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\admin\\documents\\visual studio 2017\\Projects\\CoreDemo\\CoreDemo.Web\\CoreDemo.Web.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\CoreDemo\\CoreDemo.Web\\CoreDemo.Web.csproj",
       "projectName": "CoreDemo.Web",
-      "projectPath": "c:\\users\\admin\\documents\\visual studio 2017\\Projects\\CoreDemo\\CoreDemo.Web\\CoreDemo.Web.csproj",
-      "outputPath": "c:\\users\\admin\\documents\\visual studio 2017\\Projects\\CoreDemo\\CoreDemo.Web\\obj\\",
+      "projectPath": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\CoreDemo\\CoreDemo.Web\\CoreDemo.Web.csproj",
+      "outputPath": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\CoreDemo\\CoreDemo.Web\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -10826,17 +10826,11 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "c:\\users\\admin\\documents\\visual studio 2017\\Projects\\CoreDemo\\CoreDemo.Data\\CoreDemo.Data.csproj": {
-              "projectPath": "c:\\users\\admin\\documents\\visual studio 2017\\Projects\\CoreDemo\\CoreDemo.Data\\CoreDemo.Data.csproj"
+            "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\CoreDemo\\CoreDemo.Data\\CoreDemo.Data.csproj": {
+              "projectPath": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\CoreDemo\\CoreDemo.Data\\CoreDemo.Data.csproj"
             }
           }
         }
-      }
-    },
-    "dependencies": {
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-        "target": "Package",
-        "version": "[1.1.0, )"
       }
     },
     "frameworks": {
@@ -10851,6 +10845,10 @@
             "version": "1.1.1"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
+            "target": "Package",
+            "version": "1.1.0"
+          },
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "1.1.0"
           },
