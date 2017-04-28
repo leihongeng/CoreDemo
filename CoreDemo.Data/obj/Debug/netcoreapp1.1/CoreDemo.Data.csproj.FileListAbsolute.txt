@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2017\Projects\CoreDemo\CoreDemo.Data\bin\Debug\netcoreapp1.1\CoreDemo.Data.deps.json
+c:\users\admin\documents\visual studio 2017\Projects\CoreDemo\CoreDemo.Data\bin\Debug\netcoreapp1.1\CoreDemo.Data.dll
+c:\users\admin\documents\visual studio 2017\Projects\CoreDemo\CoreDemo.Data\obj\Debug\netcoreapp1.1\CoreDemo.Data.AssemblyInfo.cs
+c:\users\admin\documents\visual studio 2017\Projects\CoreDemo\CoreDemo.Data\bin\Debug\netcoreapp1.1\CoreDemo.Data.pdb
+c:\users\admin\documents\visual studio 2017\Projects\CoreDemo\CoreDemo.Data\obj\Debug\netcoreapp1.1\CoreDemo.Data.dll
+c:\users\admin\documents\visual studio 2017\Projects\CoreDemo\CoreDemo.Data\obj\Debug\netcoreapp1.1\CoreDemo.Data.pdb

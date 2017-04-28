@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2017\Projects\CoreDemo\CoreDemo.Web\bin\Debug\netcoreapp1.1\CoreDemo.Web.deps.json
+c:\users\admin\documents\visual studio 2017\Projects\CoreDemo\CoreDemo.Web\bin\Debug\netcoreapp1.1\CoreDemo.Web.runtimeconfig.json
+c:\users\admin\documents\visual studio 2017\Projects\CoreDemo\CoreDemo.Web\bin\Debug\netcoreapp1.1\CoreDemo.Web.runtimeconfig.dev.json
+c:\users\admin\documents\visual studio 2017\Projects\CoreDemo\CoreDemo.Web\bin\Debug\netcoreapp1.1\CoreDemo.Web.dll
+c:\users\admin\documents\visual studio 2017\Projects\CoreDemo\CoreDemo.Web\bin\Debug\netcoreapp1.1\CoreDemo.Web.pdb
+c:\users\admin\documents\visual studio 2017\Projects\CoreDemo\CoreDemo.Web\obj\Debug\netcoreapp1.1\CoreDemo.Web.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\CoreDemo\CoreDemo.Web\obj\Debug\netcoreapp1.1\CoreDemo.Web.AssemblyInfo.cs
+c:\users\admin\documents\visual studio 2017\Projects\CoreDemo\CoreDemo.Web\obj\Debug\netcoreapp1.1\CoreDemo.Web.dll
+c:\users\admin\documents\visual studio 2017\Projects\CoreDemo\CoreDemo.Web\obj\Debug\netcoreapp1.1\CoreDemo.Web.pdb
+c:\users\admin\documents\visual studio 2017\Projects\CoreDemo\CoreDemo.Web\bin\Debug\netcoreapp1.1\CoreDemo.Data.dll
+c:\users\admin\documents\visual studio 2017\Projects\CoreDemo\CoreDemo.Web\bin\Debug\netcoreapp1.1\CoreDemo.Data.pdb
